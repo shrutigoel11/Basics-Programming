@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "15IFSTATEMENTS.C": "cpp",
+        "15ifstatements.c.C": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp"
+    }
+}

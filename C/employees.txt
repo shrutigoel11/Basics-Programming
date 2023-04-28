@@ -1,0 +1,3 @@
+Sam , salesman
+Raj , receptionistKelly , women
+Kelly , women
