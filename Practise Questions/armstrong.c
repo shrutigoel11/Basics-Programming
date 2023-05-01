@@ -3,9 +3,9 @@
 int main()
 {
 int orignal,digit,n,answer=0 ;                                                                       
-orignal=n;
 printf("Enter a number :");
 scanf("%d",&n);
+orignal=n;
 //Armstrong is a number whose sum of digits =number
 while(n!=0)//check whether the number entered is non-zero
 {
