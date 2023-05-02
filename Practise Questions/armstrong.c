@@ -1,5 +1,4 @@
 #include <stdio.h>
-/**/
 int main()
 {
 int orignal,digit,n,answer=0 ;                                                                       
