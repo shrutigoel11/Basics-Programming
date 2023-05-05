@@ -3,6 +3,7 @@
         "15IFSTATEMENTS.C": "cpp",
         "15ifstatements.c.C": "cpp",
         "ostream": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "array": "cpp"
     }
 }
