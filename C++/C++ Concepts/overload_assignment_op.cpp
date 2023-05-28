@@ -14,7 +14,7 @@ void display()
 {
     cout<<a<<" "<<b;
 }
-Overload operator =(Overload o)
+Overload operator =(Overload &o)
 {
     a=o.a;
     b=o.b;
