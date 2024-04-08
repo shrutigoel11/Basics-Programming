@@ -31,10 +31,12 @@ The python/ directory contains examples and exercises written in Python.
 Contributing
 Contributions are welcome! If you want to add more examples, fix bugs, or improve documentation, feel free to open a pull request.
 ->Fork the repository.
+
 ->Create your feature branch (git checkout -b feature/your-feature).
+
 ->Commit your changes (git commit -am 'Add some feature').
+
 ->Push to the branch (git push origin feature/your-feature).
+
 ->Open a pull request.
 
-License
-This project is licensed under the MIT License.
