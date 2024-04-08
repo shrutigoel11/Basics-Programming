@@ -1,0 +1,8 @@
+a=range(1110)
+b=list(range(12))
+c=list(range(5,10))
+d=list(range(5,10,3))
+print(a)
+print(b)
+print(c)
+print(d)
